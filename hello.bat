@@ -1,3 +1,3 @@
 @echo off
-echo Hello from GitHub!
+echo Hello from GitHub trigger working good!
 echo Jenkins successfully downloaded my code.
